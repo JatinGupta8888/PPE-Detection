@@ -7,7 +7,7 @@ This project is a computer vision application focused on detecting Personal Prot
 
 # Technical Overview:
 
-YOLOv5 Model: Utilized for fast and accurate object detection. The model identifies objects frame-by-frame, determining their bounding boxes, class labels, and confidence scores.
+YOLOv8 Model: Utilized for fast and accurate object detection. The model identifies objects frame-by-frame, determining their bounding boxes, class labels, and confidence scores.
 OpenCV: Responsible for video handling, frame extraction, and image processing.
 Python: The entire project is coded in Python, leveraging libraries such as cv2 (OpenCV) for video operations, and requests for downloading videos from URLs.
 
